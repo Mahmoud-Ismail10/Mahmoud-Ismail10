@@ -69,10 +69,13 @@
 ###
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Ismail10&layout=compact&langs_count=6&theme=highcontrast" height="123"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Ismail10&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
     <img src="https://streak-stats.demolab.com/?user=Mahmoud-Ismail10&theme=highcontrast" height="115"/> <!-- GitHub Streak -->
   </p>
 
-  <p align="left">
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+</p>
+<p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
-  </p>
+</p>
