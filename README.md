@@ -70,7 +70,7 @@
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Ismail10&layout=compact&langs_count=6&theme=highcontrast" height="123"/> &nbsp; <!-- Most Used Languages -->
-    <img src="https://streak-stats.demolab.com/?user=Mahmoud-Ismail10&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+    <img src="https://streak-stats.demolab.com/?user=Mahmoud-Ismail10&theme=highcontrast" height="115"/> <!-- GitHub Streak -->
   </p>
 
   <p align="left">
