@@ -6,9 +6,10 @@
 
 ###
 
-[📄 View My CV](https://drive.google.com/file/d/1EBLzfQDmOH21P0QJZOeIEXBUBmHuwiPs/view?usp=sharing)
+### [📄 View My CV](https://drive.google.com/file/d/1EBLzfQDmOH21P0QJZOeIEXBUBmHuwiPs/view?usp=sharing)
 
 ###
+
 <h4 align="left">📤 Connect With Me:</h4>
 
 ###
