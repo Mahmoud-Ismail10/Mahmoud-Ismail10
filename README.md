@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">📤 Connect With Me:</h4>
+### `📤 Connect With Me: `
 
 ###
 
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<h4 align="left">🛠️ Tech Stack:</h4>
+### `🛠️ Languages & Tools: `
 
 ###
 
@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<h4 align="left">🏆 GitHub Trophies:</h4>
+### `🏆 GitHub Trophies: `
 
 ###
 
