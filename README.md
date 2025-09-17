@@ -68,17 +68,17 @@
 
 <br clear="both">
 
-### `🏆 GitHub Trophies: `
 
+### `🔥 Streak: `
 ###
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Ismail10&hide_border=true&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
     <img src="https://streak-stats.demolab.com/?user=Mahmoud-Ismail10&hide_border=true&theme=highcontrast" height="115"/> <!-- GitHub Streak -->
   </p>
-
+### `🏆 GitHub Trophies: `
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud-Ismail10&theme=onestar&row=1&column=7"/>
 </p>
 <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
